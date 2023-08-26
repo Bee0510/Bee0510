@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vishal Behear 👋
 
-I'm a passionate software developer with a strong interest in [Your Interests]. Welcome to my GitHub profile! Feel free to explore my repositories and get in touch.
+I'm a passionate software developer with a strong interest in App Development and Web Development. Welcome to my GitHub profile! Feel free to explore my repositories and get in touch.
 
 ## 🚀 My Projects
 
@@ -12,19 +12,19 @@ Short description of the project. What it does, technologies used, etc.
 
 ## 💼 Skills
 
-- Programming Languages: [Languages]
-- Frameworks and Libraries: [Frameworks/Libraries]
-- Version Control: Git
+- Programming Languages: Dart, C, Javascript
+- Frameworks and Libraries: Flutter, React Native, React
+- Version Control: Git, Replit
 - ...
 
 ## 🌱 Currently Learning
 
-- [Something you're currently learning]
+- I am currently learning Flutter and React Native
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
-- Twitter: [@YourTwitterHandle](Twitter URL)
+- LinkedIn: https://www.linkedin.com/in/v1shalbehera/
+- Twitter: https://twitter.com/v1shalbehera
 
 ## 🎯 Goals
 
