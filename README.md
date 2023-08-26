@@ -12,10 +12,6 @@ Short description of the project. What it does, technologies used, etc.
 
 ## 💼 Skills
 
-- Programming Languages:
-  ![Python](https://example.com/path/to/python-icon.png)
-  ![JavaScript](https://example.com/path/to/javascript-icon.png)
-
 - Programming Languages: Dart, C, Javascript
 - Frameworks and Libraries: Flutter, React Native, React
 - Version Control: Git, Replit
